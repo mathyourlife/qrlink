@@ -12,5 +12,5 @@ qr: [http://example.org]
 ## Install
 
 ```bash
-go get github.com/mathyourlife/qrlink
+go get -u github.com/mathyourlife/qrlink
 ```
