@@ -1,2 +1,4 @@
-# qrlink
-simple cli tool to generate and display qr codes
+# qrlinks
+
+Simple command line tool to create and open qr codes for scanning.
+
