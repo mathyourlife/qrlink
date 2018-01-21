@@ -49,6 +49,8 @@ func writeTmp(url string) (string, error) {
 func readURL() (string, error) {
 	fmt.Print("qr: ")
 	bytePassword, err := terminal.ReadPassword(int(syscall.Stdin))
+	// Add trailing newline after user input to make a cleaner output
+	fmt.Println()
 	if err != nil {
 		return "", err
 	}
