@@ -1,0 +1,6 @@
+github.com/skip2/go-qrcode v0.0.0-20190103005219-bcdd5e378222 h1:sCdJJKtlGjmEEB63eFNbWFUwD+0/7HE383eLsyX5VVs=
+github.com/skip2/go-qrcode v0.0.0-20190103005219-bcdd5e378222/go.mod h1:PLPIyL7ikehBD1OAjmKKiOEhbvWyHGaNDjquXMcYABo=
+golang.org/x/crypto v0.0.0-20190103213133-ff983b9c42bc h1:F5tKCVGp+MUAHhKp5MZtGqAlGX3+oCsiL1Q629FL90M=
+golang.org/x/crypto v0.0.0-20190103213133-ff983b9c42bc/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/sys v0.0.0-20190107173414-20be8e55dc7b h1:9Gu1sMPgKHo+qCbPa2jN5A54ro2gY99BWF7nHOBNVME=
+golang.org/x/sys v0.0.0-20190107173414-20be8e55dc7b/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
