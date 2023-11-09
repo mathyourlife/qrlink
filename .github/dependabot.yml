@@ -8,4 +8,4 @@ updates:
     - "dependencies"
     - "pr/no-changelog"
   schedule:
-    interval: daily
+    interval: monthly
